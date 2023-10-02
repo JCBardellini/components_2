@@ -1,0 +1,21 @@
+#color-container {
+    height: 200px;
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.green {
+    background-color: green;
+}
+.red {
+    background-color: red;
+}
+.purple {
+    background-color: purple;
+}
+.blue {
+    background-color: blue;
+}

@@ -1,0 +1,14 @@
+#news-container {
+    height: 200px;
+    background-color: lightblue;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+}
+#news-container p {
+    width: 80%;
+    margin: 0 auto;
+}
